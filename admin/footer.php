@@ -7,7 +7,7 @@
             <div class="left-panel" >
                 © Copyright 2020 - Tran Quoc Son
             </div>
-           ưdwdw
+           
             <div class="clear-both"></div>
         </div>
     </div>
